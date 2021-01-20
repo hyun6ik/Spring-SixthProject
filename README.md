@@ -1,2 +1,2 @@
 # Spring-SixthProject
-Http 공부
+나의 Secondary 물건 판매 사이트
